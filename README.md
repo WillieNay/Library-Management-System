@@ -1,4 +1,4 @@
-# 📚 Library Management System
+# Library Management System
 
 ## Overview
 
@@ -8,7 +8,7 @@ A modern, user-friendly Java-based Library Management System that provides an in
 ![Swing](https://img.shields.io/badge/GUI-Swing-green?style=flat-square)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
 
-## 🌟 Features
+## Features
 
 - **Book Management**
   - Add new books to the library
@@ -21,12 +21,12 @@ A modern, user-friendly Java-based Library Management System that provides an in
   - Color-coded action buttons
   - Responsive table-based book display
 
-## 🛠 Prerequisites
+## Prerequisites
 
 - Java Runtime Environment (JRE) 8 or higher
 - Minimum screen resolution: 800x600
 
-## 🚀 Installation
+## Installation
 
 ### Method 1: Direct Compilation
 
@@ -58,7 +58,7 @@ A modern, user-friendly Java-based Library Management System that provides an in
 - Locate the `LibraryGUI.java` file
 - Right-click and select "Run"
 
-## 📝 Usage
+## Usage
 
 1. **Adding a Book**
    - Enter book title and author in the input fields
@@ -73,35 +73,25 @@ A modern, user-friendly Java-based Library Management System that provides an in
    - Click "Return Book"
 
 
-## 🔧 Customization
+## Customization
 
 You can easily customize the application by modifying:
 - Initial book list in `initializeBooks()` method
 - Color schemes in `createStyledButton()` method
 - Layout in the constructor
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 🐛 Known Issues
+## Known Issues
 
 - Currently supports single-user mode
 - No persistent storage (books reset on application close)
 
-## 📧 Contact
+## Contact
 
 Nay Linn Htin/Willie Nay
 williamgarrix14@gmail.com
 
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - Java Swing
 - GridBagLayout
